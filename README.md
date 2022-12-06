@@ -7,7 +7,7 @@ J'aimerais également à l'avenir y déposer :
 3. Des cheat-sheet sur différentes technologies
 
 ### Mes projets OpenClassrooms
-Voici une sélection de quelques-uns de mes projets OpenClassrooms (du plus ancien au plus récent) : 
+Voici une sélection de quelques-uns de mes projets OpenClassrooms
 
 | Nom du projet                 | Description                                                 | Technologies utilisées                                   | Lien      |
 |-------------------------------|-------------------------------------------------------------|----------------------------------------------------------|-----------|
