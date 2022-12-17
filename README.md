@@ -1,10 +1,6 @@
 ### Bienvenue sur mon profil Github
 **Je m'appelle Etienne et j'ai 24 ans. Je me spécialise dans le langage Java ainsi que de son framework Spring.** <br>
 Vous trouverez dans mes repositorys Github diverses choses tels projets que j'ai fait durant mon parcours OpenClassrooms.
-J'aimerais également à l'avenir y déposer : 
-1. Les projets que je construis sur mon temps libre
-2. Des solutions à des problèmes algorithmiques
-3. Des cheat-sheet sur différentes technologies
 
 ### Mes projets OpenClassrooms
 Voici une sélection de quelques-uns de mes projets OpenClassrooms
